@@ -1,0 +1,11 @@
+streamlit
+transformers
+torch
+soundfile
+accelerate
+pyarrow
+numpy
+sentecepiece
+requests
+psutil
+pandas

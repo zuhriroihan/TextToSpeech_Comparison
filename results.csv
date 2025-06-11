@@ -1,0 +1,5 @@
+timestamp,model_name,input_text,inference_time,cpu_usage,ram_usage
+2025-06-11 07:08:21,Bark,"The meeting is at 2:30 PM in room A-1, organized by NASA. [sighs]",171.16243028640747,187.3,1339.58203125
+2025-06-11 07:09:06,SpeechT5,"The meeting is at 2:30 PM in room A-1, organized by NASA.",3.978943109512329,155.0,151.91015625
+2025-06-11 07:10:25,SpeechT5,"Wow, this sounds incredibly realistic!",3.716057300567627,195.5,6.640625
+2025-06-11 07:11:59,Bark,"Wow, this sounds incredibly realistic!",75.96820139884949,199.2,37.43359375
