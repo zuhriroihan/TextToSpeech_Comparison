@@ -5,7 +5,7 @@ soundfile
 accelerate
 pyarrow
 numpy
-sentecepiece
+sentencepiece
 requests
 psutil
 pandas
